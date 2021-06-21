@@ -2,4 +2,4 @@
 
 ## Sistema de jogo de xadrez
 
-Projeto utilizando Orientação a Objeto
+Projeto utilizando os conceitos de Orientação a Objeto.
